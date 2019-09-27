@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="sunday">Вс</string>
+    <string name="monday">Пн</string>
+    <string name="tuesday">Вт</string>
+    <string name="wednesday">Ср</string>
+    <string name="thursday">Чт</string>
+    <string name="friday">Пт</string>
+    <string name="saturday">Сб</string>
+    <string name="january">Января</string>
+    <string name="february">Февраля</string>
+    <string name="match">Марта</string>
+    <string name="april">Апреля</string>
+    <string name="may">Мая</string>
+    <string name="june">Июня</string>
+    <string name="july">Июля</string>
+    <string name="august">Августа</string>
+    <string name="september">Сентября</string>
+    <string name="october">Октября</string>
+    <string name="november">Ноября</string>
+    <string name="december">Декабря </string>
+    <string name="change_city">Поиск</string>
+    <string name="five_days">Прогноз на пять дней</string>
+    <string name="title_activity_main_fist">MainActivityFist</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="todo">TODO</string>
+    <string name="city_name">City name</string>
+    <string name="sunny">Sunny</string>
+    <string name="_20">20°</string>
+    <string name="date">Date</string>
+</resources>
